@@ -1,1 +1,1 @@
-i used the comand "git pull " to update the local from github. to do this i change my current branch to main(master) to get all the commit i made before-- to change the branch "git checkout master" command
+git pull
